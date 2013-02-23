@@ -4,5 +4,7 @@
     <string name="app_name">StudentService</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="enter_student_id">Enter the Student\'s id</string>
+    <string name="query">Query</string>
 
 </resources>
